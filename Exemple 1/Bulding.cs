@@ -12,9 +12,13 @@ namespace ConsoleApp1
         public int Area; // общая площадь здания
         public int Occupants; // количество жильцов
 
-        public void AreaPerPerson()
+      //  public void AreaPerPerson()
+      //  {
+      //      Console.WriteLine($"Area for one people: {Area/Occupants}");
+      //  }
+      public int Area_PerPerson()
         {
-            Console.WriteLine($"Area for one people: {Area/Occupants}");
+            return Area / Occupants;
         }
 
     }
