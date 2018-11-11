@@ -16,5 +16,6 @@ namespace Exemple_2_Use_of_parameters
                 else Console.WriteLine(i + "  not prime number.");
             Console.ReadKey();
         }
+
     }
 }
