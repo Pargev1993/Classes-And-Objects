@@ -4,9 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Massivs
+namespace _string
 {
-    class Address
+    class Program
     {
+        static void Main(string[] args)
+        {
+          
+
+            
+        }
     }
 }

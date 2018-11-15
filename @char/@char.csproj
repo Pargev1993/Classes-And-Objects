@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A0474460-BDEC-4479-9D52-A98BAC42B990}</ProjectGuid>
+    <ProjectGuid>{F4274CA2-361E-4D57-A03C-3D0BD467EF16}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Massivs</RootNamespace>
-    <AssemblyName>Massivs</AssemblyName>
+    <RootNamespace>_char</RootNamespace>
+    <AssemblyName>%40char</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
