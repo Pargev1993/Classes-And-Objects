@@ -7,7 +7,7 @@
     <ProjectGuid>{32745452-E967-41A7-8240-0A34886827FB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>I_Exem_2</RootNamespace>
-    <AssemblyName>I_Exem_2</AssemblyName>
+    <AssemblyName>I Exem 2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DiravidClass.cs" />
+    <Compile Include="Interface1.cs" />
+    <Compile Include="Interface2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

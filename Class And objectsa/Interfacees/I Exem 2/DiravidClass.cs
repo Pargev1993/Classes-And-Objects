@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace I_Exem_2
 {
-    class Program
+    class DiravidClass
     {
-        static void Main(string[] args)
-        {
-           
-        }
     }
 }
