@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E6AAE4FC-9DB3-45E0-99E5-F4513256708B}</ProjectGuid>
+    <ProjectGuid>{D0657C66-29D6-4A18-87CB-9B91186EC36A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Massivs_exe_1</RootNamespace>
-    <AssemblyName>Massivs_exe_1</AssemblyName>
+    <RootNamespace>Exemple._1</RootNamespace>
+    <AssemblyName>Exemple.1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="..\Class And Objects\Namesace\pro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
