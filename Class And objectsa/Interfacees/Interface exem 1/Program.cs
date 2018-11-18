@@ -22,7 +22,7 @@ namespace Interface_exem_1
     {
         static void Main(string[] args)
         {
-            Myckass v;
+            Myckass v = new Myckass();
             v.eat();
         }
     }
