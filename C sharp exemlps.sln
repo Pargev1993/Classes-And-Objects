@@ -68,6 +68,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexator", "Indexator\Inde
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Indexators", "Indexators", "{543BD86E-40DA-4A0A-8B35-3CC62CA3B1A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "indexators 2", "indexators 2\indexators 2.csproj", "{CCB3DC92-61B7-49AD-B200-627B89B7161C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,6 +152,10 @@ Global
 		{5BE70B8D-DC54-4779-A506-4872D317CD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BE70B8D-DC54-4779-A506-4872D317CD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BE70B8D-DC54-4779-A506-4872D317CD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB3DC92-61B7-49AD-B200-627B89B7161C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB3DC92-61B7-49AD-B200-627B89B7161C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB3DC92-61B7-49AD-B200-627B89B7161C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB3DC92-61B7-49AD-B200-627B89B7161C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -183,6 +189,7 @@ Global
 		{72F268A2-0B3C-4415-B5A1-F91700BC3FD7} = {C8032E7D-C729-4B70-8D78-AA6D0145574F}
 		{5BE70B8D-DC54-4779-A506-4872D317CD2D} = {543BD86E-40DA-4A0A-8B35-3CC62CA3B1A3}
 		{543BD86E-40DA-4A0A-8B35-3CC62CA3B1A3} = {79442E23-CCC0-4B7F-B89B-AE1B303EB829}
+		{CCB3DC92-61B7-49AD-B200-627B89B7161C} = {543BD86E-40DA-4A0A-8B35-3CC62CA3B1A3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D0B92F89-7B25-43E1-851B-0194EFD743F3}
