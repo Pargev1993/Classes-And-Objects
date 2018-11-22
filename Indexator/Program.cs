@@ -26,7 +26,11 @@ namespace Indexator
             my[2] = 3;
             my[3] = 4;
             my[4] = 5;
-
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(my[i]);
+            }
+            Console.ReadKey();
         }
     }
 }
