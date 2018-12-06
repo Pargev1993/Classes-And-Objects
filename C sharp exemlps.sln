@@ -76,6 +76,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOut", "..\RefOut\RefOut.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ananimus_Method", "Ananimus_Method\Ananimus_Method.csproj", "{24C9307D-1D7D-48CA-AE80-0AD890E1872C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ananimus_Delegate", "Ananimus_Delegate\Ananimus_Delegate.csproj", "{736DC986-8F53-475A-B56A-1688B636D5D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -174,6 +176,10 @@ Global
 		{24C9307D-1D7D-48CA-AE80-0AD890E1872C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24C9307D-1D7D-48CA-AE80-0AD890E1872C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24C9307D-1D7D-48CA-AE80-0AD890E1872C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736DC986-8F53-475A-B56A-1688B636D5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736DC986-8F53-475A-B56A-1688B636D5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736DC986-8F53-475A-B56A-1688B636D5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736DC986-8F53-475A-B56A-1688B636D5D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
