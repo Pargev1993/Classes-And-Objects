@@ -74,8 +74,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Delegate", "CSharp_D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOut", "..\RefOut\RefOut.csproj", "{91837288-FB60-4903-8CA9-32CFA446B820}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ananimus_Delegate", "Ananimus_Delegate\Ananimus_Delegate.csproj", "{E0035911-490E-4205-8B88-3F0A898C2B42}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -170,10 +168,6 @@ Global
 		{91837288-FB60-4903-8CA9-32CFA446B820}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91837288-FB60-4903-8CA9-32CFA446B820}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91837288-FB60-4903-8CA9-32CFA446B820}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E0035911-490E-4205-8B88-3F0A898C2B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E0035911-490E-4205-8B88-3F0A898C2B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E0035911-490E-4205-8B88-3F0A898C2B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E0035911-490E-4205-8B88-3F0A898C2B42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -209,7 +203,6 @@ Global
 		{543BD86E-40DA-4A0A-8B35-3CC62CA3B1A3} = {79442E23-CCC0-4B7F-B89B-AE1B303EB829}
 		{CCB3DC92-61B7-49AD-B200-627B89B7161C} = {543BD86E-40DA-4A0A-8B35-3CC62CA3B1A3}
 		{0F248872-A149-42B1-A195-AA5028D059A3} = {543BD86E-40DA-4A0A-8B35-3CC62CA3B1A3}
-		{E0035911-490E-4205-8B88-3F0A898C2B42} = {79442E23-CCC0-4B7F-B89B-AE1B303EB829}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D0B92F89-7B25-43E1-851B-0194EFD743F3}
