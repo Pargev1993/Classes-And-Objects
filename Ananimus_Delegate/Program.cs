@@ -16,7 +16,8 @@ namespace Ananimus_Delegate
             mydelegate = x => { return x * 2; };
             int res = mydelegate(4);
             Console.WriteLine(res);
-
         }
+
+
     }
 }

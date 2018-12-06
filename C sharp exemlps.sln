@@ -78,6 +78,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ananimus_Method", "Ananimus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ananimus_Delegate", "Ananimus_Delegate\Ananimus_Delegate.csproj", "{736DC986-8F53-475A-B56A-1688B636D5D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{91455374-3C1E-430E-8983-239E4B0F6DEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,6 +182,10 @@ Global
 		{736DC986-8F53-475A-B56A-1688B636D5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{736DC986-8F53-475A-B56A-1688B636D5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{736DC986-8F53-475A-B56A-1688B636D5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91455374-3C1E-430E-8983-239E4B0F6DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91455374-3C1E-430E-8983-239E4B0F6DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91455374-3C1E-430E-8983-239E4B0F6DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91455374-3C1E-430E-8983-239E4B0F6DEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
