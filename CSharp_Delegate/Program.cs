@@ -14,6 +14,9 @@ namespace CSharp_Delegate
             _sum = sum;
         }
         public void Put(int sum)
+        {
+
+        }
         
         public void WithDraw(int sum)
         {
